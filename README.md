@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MdFaiyaj11700
-- 👀 I’m interested in  **Quantum Science** and its intersection with emerging technologies.
-- 🌱 I’m currently learning **Machine Learning** and exploring its applications in materials science and fluid mechanics.  
+- 👀 I’m interested in  **Materials Science** and **Additive Manufacturing**. 
+- 🌱 Currently intermediate phase in **Machine Learning**. Exploring its applications in Materials science (Composite material, Biomaterials, Soft Materials, and Energy material) and Additive Manufacturing. 
 - 💞️ I’m looking to collaborate on projects related to computational physics, optoelectronics, and AI-driven systems.  
-- 📫 How to reach me chowdhurymdfaiyaj@gmail.com or, linkedin.com/in/mdfaiyajchowdhury-6874821b9.
+- 📫 How to reach me chowdhurymdfaiyaj@gmail.com or, linkedin.com/in/mfaiyajc
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact:I enjoy solving real-world problems by combining engineering principles with creative solutions. 
 
