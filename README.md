@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MdFaiyaj11700
-- 👀 I’m interested in  **Materials Science** and **Additive Manufacturing**. 
-- 🌱 Currently intermediate phase in **Machine Learning**. Exploring its applications in Materials science (Composite material, Biomaterials, Soft Materials, and Energy material) and Additive Manufacturing. 
-- 💞️ I’m looking to collaborate on projects related to computational physics, optoelectronics, and AI-driven systems.  
+- 👀 I’m interested in  **Control Theory** **Robotics** **Safe Learning** **Optimization** **Safety-critical Systems** and **Learning-based Control**.  
+- 🌱 Currently intermediate phase in **Machine Learning**. Exploring its applications in Robotics and Optimization
+- 💞️ I’m looking to collaborate on projects related to Control Systems and AI-driven systems.  
 - 📫 How to reach me chowdhurymdfaiyaj@gmail.com or, linkedin.com/in/mfaiyajc
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact:I enjoy solving real-world problems by combining engineering principles with creative solutions. 
